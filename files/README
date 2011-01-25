@@ -1,0 +1,4 @@
+Populate this directory with s3fs source tarballs - or modify the
+module to retrieve the code another way, distribute packages, etc.
+
+Source tarballs can be found at <http://code.google.com/p/s3fs/>.
