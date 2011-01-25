@@ -1,0 +1,5 @@
+A Puppet module to install s3fs, and configure s3fs mounts on a system.
+
+S3fs itself can be found at http://code.google.com/p/s3fs/
+
+Tested on CentOS and Ubuntu.
